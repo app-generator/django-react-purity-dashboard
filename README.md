@@ -16,7 +16,7 @@ Start your Development with an Innovative Admin Template for **Chakra UI** and *
 
 - [Django React Purity Dashboard](https://appseed.us/product/django-react-purity-dashboard) - product page
 - [Django React Purity Dashboard](https://django-react-purity-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
-* Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+- Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
