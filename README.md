@@ -186,13 +186,13 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ## Product UI
 
-> Django React Purity Dashboard - Login 
+> **Django React Purity** - Login 
 
 ![Django React Purity Dashboard - Login.](https://user-images.githubusercontent.com/51070104/142229429-c3a3d8eb-f535-4d0c-9a01-e59bc74e08db.png)
 
 <br />
 
-> Django React Purity Dashboard - User Profile
+> **Django React Purity** - User Profile
 
 ![Django React Purity Dashboard - User Profile](https://user-images.githubusercontent.com/51070104/142229572-a313ac1c-e798-49cc-a86c-2e0ab9ead00a.png)
 
