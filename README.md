@@ -1,6 +1,6 @@
 # [Django React Purity Dashboard](https://appseed.us/product/django-react-purity-dashboard)
 
-Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using Chakra's style props. The product comes with a simple JWT authentication flow: login/register/logout. 
+Start your Development with an Innovative Admin Template for **Chakra UI** and **React**. Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
 > Features
 
@@ -17,20 +17,6 @@ Start your Development with an Innovative Admin Template for **Chakra UI** and *
 - [Django React Purity Dashboard](https://appseed.us/product/django-react-purity-dashboard) - product page
 - [Django React Purity Dashboard](https://django-react-purity-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
 * Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-<br />
-
-## General Information
-
-The product is built using a `two-tier` pattern where the React frontend is decoupled logically and physically from the API backend. How to use the product: 
-
-- `Compile and start` the **Django API Backend**
-  - by default the server starts on port `5000`
-- `Compile and start` the **React UI**
-  - UI will start on port `3000` and expects a running backend on port `5000`
-- `Configuration` (Optional)
-  - Change the API port
-  - Configure the API port used by the React UI to communicate with the backend 
 
 <br />
 
@@ -71,10 +57,23 @@ After we register a new user and Sign IN, all the private pages become accessibl
 
 <br />
 
-![React Purity Dashboard - Open-source full-stack product with Django API Backend.](https://user-images.githubusercontent.com/51070104/136687466-1dfeeb6b-d474-45df-879b-0857b27eb615.gif) 
+![React Purity Dashboard - Open-source full-stack product with Django API Backend.](https://user-images.githubusercontent.com/51070104/142229301-fb70f20d-913d-496d-822e-e170cc8c8573.gif)
 
 <br >
 
+## General Information
+
+The product is built using a `two-tier` pattern where the React frontend is decoupled logically and physically from the API backend. How to use the product: 
+
+- `Compile and start` the **Django API Backend**
+  - by default the server starts on port `5000`
+- `Compile and start` the **React UI**
+  - UI will start on port `3000` and expects a running backend on port `5000`
+- `Configuration` (Optional)
+  - Change the API port
+  - Configure the API port used by the React UI to communicate with the backend 
+
+<br />
 
 ## Manual build
 
@@ -187,21 +186,15 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ## Product UI
 
-> React Flask Authentication - Login 
+> Django React Purity Dashboard - Login 
 
-![React Flask Authentication - Login.](https://user-images.githubusercontent.com/51070104/141444378-763ca3fb-c18c-4558-9730-b42a341a7b22.jpg)
-
-<br />
-
-> React Flask Authentication - Icons
-
-![React Flask Authentication - Icons.](https://user-images.githubusercontent.com/51070104/141444472-8c966396-69dc-46c3-835e-b64329fdbf7d.jpg)
+![Django React Purity Dashboard - Login.](https://user-images.githubusercontent.com/51070104/142229429-c3a3d8eb-f535-4d0c-9a01-e59bc74e08db.png)
 
 <br />
 
-> React Flask Authentication - Colors
+> Django React Purity Dashboard - User Profile
 
-![React Flask Authentication - Colors.](https://user-images.githubusercontent.com/51070104/141444532-46a3bcd0-841b-4725-aa82-122569cd678a.jpg)
+![Django React Purity Dashboard - User Profile](https://user-images.githubusercontent.com/51070104/142229572-a313ac1c-e798-49cc-a86c-2e0ab9ead00a.png)
 
 <br />
 
@@ -213,4 +206,4 @@ authorization: JWT_TOKEN (returned by Login request)
 <br />
 
 ---
-**[React Flask Authentication](https://blog.appseed.us/react-flask-authentication/)** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
+**[Django React Purity Dashboard](https://appseed.us/product/django-react-purity-dashboard)** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
