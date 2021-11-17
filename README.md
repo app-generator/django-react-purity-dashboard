@@ -93,7 +93,7 @@ $ # Set Up the Database
 $ python manage.py migrate
 $ 
 $ # Start the API
-$ python manage.py runserver
+$ python manage.py runserver 5000
 ```
 
 <br />
