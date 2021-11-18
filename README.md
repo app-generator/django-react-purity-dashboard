@@ -139,7 +139,7 @@ const config = {
 
 ## API
 
-For a fast set up, use this POSTMAN file: [api_sample](https://github.com/app-generator/api-server-nodejs-pro/blob/master/media/api.postman_collection.json)
+For a fast set up, use this POSTMAN file: [api_sample](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json)
 
 > **Register** - `api/users/register` (**POST** request)
 
